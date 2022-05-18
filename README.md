@@ -8,7 +8,7 @@ Python dilinde çeşitli kütüphaneler kullanılarak kodlanmıştır. Metin ses
 * Basit Düzeyde Arayüz Tasarımı
 * Tüm İşlemler Sesli Olarak yapılabilmektedir ve Tüm işlemlerde sesli cevap alınabilmektedir
 * Modül Çalıştırma için Birden fazla Sözcük Kullanılabilir
-* Uyku modu ( İsmini Söylendiğinde Aktif Olur)
+* Uyku modu ( İsmi Söylendiğinde Aktif Olur)
 * Çeviri Açıldığında Türkçe Söylediğiniz cümleyi İngilizce'ye, İngilizce Söylediğiniz Cümleyi Türkçe'ye Çevirip Seslendirir, Konuşulan cümlenin hangi dil olduğunu otomatik algılamaktadır
 * Terminali Temizler
 * 81 İlin anlık hava durumunu söyleyebilir
