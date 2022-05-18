@@ -101,10 +101,10 @@ def sendSms():
             break
     url = 'http://panel.vatansms.com/webservis/service.php?wsdl'
     client = SoapClient(wsdl=url, trace=True, exceptions=False)
-    kullanicino='23086'
-    kullaniciadi='905453356357'
-    sifre='57UONJ63' 
-    orjinator = '8505909484'
+    kullanicino='222'
+    kullaniciadi='222222'
+    sifre='222222' 
+    orjinator = '8505907484'
     tur='Normal'  
     zaman=''          
     zamanasimi=''  
@@ -201,7 +201,7 @@ def sendMail():
     smtp_server = "smtp.yandex.com.tr"
     sender_email = "info@yusufkarakaya.com.tr"  
     receiver_email = mail  
-    password = "Karakaya123@"
+    password = "Sifre"
     message = """\From: From Person <info@yusufkarakaya.com.tr>
     To: To Person <"""+receiver_email+""">
     Subject: Sebastian Otomatik Mail
