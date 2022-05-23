@@ -49,6 +49,6 @@ It is coded in Python using various libraries. Text vocalization is done with th
 ## Ekran Görüntüleri - ScreenShot
 
 ![Sesli Asistan - Sebastian](ss-1.png "Sesli Asistan - Sebastian")
-![Sesli Asistan - Sebastian](ss-2.png "Sesli Asistan - Sebastian")
-![Sesli Asistan - Sebastian](ss-3.png "Sesli Asistan - Sebastian")
+![Sesli Asistan - Sebastian](ss-2.png "Sesli Asistan - Sebastian 2")
+![Sesli Asistan - Sebastian](ss-3.png "Sesli Asistan - Sebastian 3")
  
